@@ -1,0 +1,13 @@
+{
+  "name": "github-reuse-assistant",
+  "version": "1.0.0",
+  "description": "ML/DL GitHub 项目复用助手 - 从 clone 到训练的全流程引导插件",
+  "author": {
+    "name": "DaPeng",
+    "email": "li18838956649@gmail.com",
+    "url": "https://github.com/lidapengpeng"
+  },
+  "repository": "https://github.com/lidapengpeng/github-reuse-assistant",
+  "license": "MIT",
+  "keywords": ["ml", "deep-learning", "pytorch", "training", "github", "reuse"]
+}
